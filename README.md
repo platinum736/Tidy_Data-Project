@@ -11,6 +11,6 @@ Running the script loads the file and merges them into a single data frame)"Merg
 
 Next It is extracting 3 variables related to t-Body-acc-Mean-X,Y,Z and 3 variables related to t-Body-acc-std=X,Y,Z from the ("Merged_data") and writing the result in another data frame.
 
-Finally it extract two reports showing the mean on each variable grouped by Activity and Subjecy from the above dataset.
+Finally it extract two reports showing the mean on each variable grouped by Activity and Subject from the above dataset.
 
 
